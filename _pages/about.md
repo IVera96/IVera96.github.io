@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# 🌞 Hello and welcome! I'm Vera
-
 I’m a curious and cheerful soul who loves discovering stories hidden in data.
 
 With a background in Applied Mathematics and a growing passion for Data Science and AI, I enjoy turning complex information into clear, visual, and impactful insights. Whether it’s through Python code, a colorful dashboard, or a good conversation, I love making sense of things and sharing what I learn along the way.
