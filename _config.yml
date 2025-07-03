@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Vera ILAS"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Brussels"
   employer         : # "Red Brick University"
   uri              : # 
