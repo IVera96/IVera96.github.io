@@ -11,54 +11,66 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master’s degree in Applied Mathematics, UAIC, Iasi, Romania, 2020  
+  * Erasmus Exchange Program, University of Cagliari, Italy (6 months)
+
+* Bachelor’s degree in Mathematics, UAIC, Iasi, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May, 2025 - July, 2025: Data Science Intern | SIRIUS Insight  
+  * Built statistical and time series models (including LSTM) to analyze income distribution across the Belgian population for geomarketing insights.  
+  * Contributed to the design and development of interactive dashboards in Power BI, enhancing previous Tableau reports and tailoring visuals to client needs.  
+  * Applied forecasting techniques to support data-driven marketing strategies in the automotive sector.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct, 2024 - May, 2025: Data Science & AI Trainee, BeCode  
+  * During this 7-month intensive training program, I worked on real-world data science and AI challenges, developing a solid foundation in data preprocessing, machine learning, visualization, and deployment. I gained practical experience in end-to-end project development while collaborating in an agile, team-based environment.  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+ * Key Contributions:
+
+    * Designed and implemented predictive machine learning models using Scikit-learn and TensorFlow;  
+    * Built interactive dashboards and visualizations with Power BI and Python (Plotly, Seaborn); 
+    * Developed and deployed Streamlit web apps to make models and insights easily accessible;
+    * Applied dimensionality reduction and clustering techniques (PCA, K-Means) to uncover hidden patterns in survey data;  
+    * Automated workflows and data pipelines for efficiency and reproducibility;  
+    * Leveraged cloud tools and GitHub for version control, CI/CD, and collaborative development;  
+    * Applied NLP techniques in generative AI projects (Orange) for creative business use cases;
+
+* 2022 – 2024: Mathematics Teacher  
+  * Location: France
+
+* 2021 – 2022: Tutor for school support and youth activities  
+  * Location: France
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analysis & Programming  
+  * Python, SQL, Pandas, NumPy, Power BI
+
+* Machine Learning & AI  
+  * TensorFlow, Scikit-learn, Keras  
+  * NLP (basic), Feature Engineering, Model Deployment
+
+* Web Technologies  
+  * Web scraping with BeautifulSoup, Selenium
+
+* Version Control & Collaboration  
+  * Git, GitHub
+
+* Productivity  
+  * Microsoft Office
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}  
+  {% include archive-single-cv.html %}  
+{% endfor %}</ul>
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Participated in multiple collaborative projects during training at BeCode  
+* Delivered educational support to youth and students in France; organized several projects to integrate young people and encourage collaborative work.
+
+Certifications and Training
+======
+* Preparing for Microsoft AZ-900: Microsoft Azure Fundamentals certification to enhance cloud computing knowledge and skills.  
